@@ -16,7 +16,8 @@ Runtime: Nodejs 16
 
 Process to run:
 
+npm i
+
 npm start 
-port: 3000
 
 Happy Coding !!
